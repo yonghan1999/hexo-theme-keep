@@ -2,11 +2,11 @@
 #  Your basic info
 # ---------------------------------------------------------------------------------------
 base_info:
-  title: Keep Theme
-  author: Keep Team
-  url: https://keep.xpoet.cn/
+  title: Yuuki的小站
+  author: yuuki
+  url: https://hanblog.fun/
   # Logo image (You can use local image, image external link or don’t fill)
-  logo_img:
+  logo_img: https://image.hanblog.fun/images/2022/04/27/4C3184D2-02DF-4942-8888-017A5E2E06BE.jpg
 
 # ---------------------------------------------------------------------------------------
 # Theme style settings
@@ -16,7 +16,7 @@ style:
   primary_color: "#0066CC"
 
   # Avatar (You can use local image or image external link)
-  avatar: /images/avatar.svg
+  avatar: https://image.hanblog.fun/images/2022/04/27/4C3184D2-02DF-4942-8888-017A5E2E06BE.jpg
 
   # Favicon (You can use local image or image external link)
   favicon: /images/logo.svg
@@ -37,7 +37,7 @@ style:
 
   # First screen
   first_screen:
-    enable: false
+    enable: true
     background_img: /images/bg.svg # You can use local image or image external link
     description: Keep writing and Keep loving.
 
