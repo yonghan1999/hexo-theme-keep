@@ -6,7 +6,7 @@ base_info:
   author: yuuki
   url: https://hanblog.fun/
   # Logo image (You can use local image, image external link or don’t fill)
-  logo_img: https://image.hanblog.fun/images/2022/04/27/4C3184D2-02DF-4942-8888-017A5E2E06BE.jpg
+  logo_img:
 
 # ---------------------------------------------------------------------------------------
 # Theme style settings
