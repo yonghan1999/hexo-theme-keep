@@ -39,7 +39,7 @@ style:
   first_screen:
     enable: true
     background_img: /images/bg.svg # You can use local image or image external link
-    description: Keep writing and Keep loving.
+    description: 我会一直写代码，直到我看不清屏幕的那一天。
 
   # Scroll style settings
   scroll:
