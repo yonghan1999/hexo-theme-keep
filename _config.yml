@@ -2,8 +2,8 @@
 #  Your basic info
 # ---------------------------------------------------------------------------------------
 base_info:
-  title: Yuuki的小站
-  author: yuuki
+  title: Han的小站
+  author: Han
   url: https://hanblog.fun/
   # Logo image (You can use local image, image external link or don’t fill)
   logo_img:
@@ -39,7 +39,7 @@ style:
   first_screen:
     enable: true
     background_img: /images/bg.svg # You can use local image or image external link
-    description: 我会一直写代码，直到我看不清屏幕的那一天。
+    description: 一直写代码，直到看不清屏幕那一天
 
   # Scroll style settings
   scroll:
@@ -54,7 +54,7 @@ style:
 social_contact:
   enable: false
   links:
-    github: # your GitHub URL
+    github: https://github.com/yonghan1999# your GitHub URL
     weixin: # your WeChat QR-Code URL
     qq: # your QQ QR-Code URL
     weibo: # your WeiBo URL
